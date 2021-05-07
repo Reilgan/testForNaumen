@@ -1,1 +1,2 @@
-# testForNaumen
+# Note - Spring сервис
+# NoteClient - Swing Aplication
