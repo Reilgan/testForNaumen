@@ -1,2 +1,2 @@
-# Note - Spring сервис
-# NoteClient - Swing Aplication
+# notes - Spring сервис
+# noteClient - Swing Aplication
